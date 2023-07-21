@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Hanna Margrét
+
+I'm a Software Engineering student at the University of Iceland!
 
 <!--
 **hannajonsd/hannajonsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
