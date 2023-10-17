@@ -2,7 +2,8 @@
 
 I'm a Software Engineering student at the University of Iceland!
 
-- 💻 I’m currently working at Origo Iceland as a Software Solutions Specialist.
+- 🔭 I am currently on an exchange semester at the Cooper Union in New york
+- 💻 This summer I was a Software Solutions Specialistat at Origo Iceland.
 - 😄 Pronouns: she/her
 
   
