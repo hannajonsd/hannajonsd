@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Iceland!
 
-- 🔭 I am currently on an exchange semester at the Cooper Union in New york
+- 🔭 I am currently on an exchange semester at the Cooper Union in New York
 - 💻 This summer I was a Software Solutions Specialist at Origo Iceland.
 - 😄 Pronouns: she/her
 
