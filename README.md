@@ -2,10 +2,10 @@
 
 I'm a Software Engineering student at the University of Iceland!
 
-- 🤓 My current courses are Software Project 2, Analysis of Algorithms, Compilers and Web Programming 2
+- My current courses are: Software Project 2, Analysis of Algorithms, Compilers and Web Programming 2
 - 💻 I am currently a part time Software Solutions Specialist at Origo Iceland.
-- - 🔭 I recently did an exchange semester at the Cooper Union in New York!
-- 😄 Pronouns: she/her
+- 🔭 I recently did an exchange semester at the Cooper Union in New York!
+- Pronouns: she/her
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannajonsd&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
