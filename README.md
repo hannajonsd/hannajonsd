@@ -2,8 +2,9 @@
 
 I'm a Software Engineering student at the University of Iceland!
 
-- 🔭 I am currently on an exchange semester at the Cooper Union in New York
-- 💻 This summer I was a Software Solutions Specialist at Origo Iceland.
+- 🤓 My current courses are Software Project 2, Analysis of Algorithms, Compilers and Web Programming 2
+- 💻 I am currently a part time Software Solutions Specialist at Origo Iceland.
+- - 🔭 I recently did an exchange semester at the Cooper Union in New York!
 - 😄 Pronouns: she/her
 
   
