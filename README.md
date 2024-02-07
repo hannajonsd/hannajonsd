@@ -13,7 +13,10 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 
 [Wine Not?](https://winenot-mday.onrender.com/)
 
+### Web Programming 2
+#### Assignment 1
 
+[Boltadeild!(Game League)](https://monumental-druid-185058.netlify.app)
 
 <!--
 **hannajonsd/hannajonsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
