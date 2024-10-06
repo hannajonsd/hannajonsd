@@ -24,20 +24,20 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 [Github repository](https://github.com/hannajonsd/webProgramming2-V1)
 
 #### Assignment 2 
-[Github repository](https://github.com/hannajonsd/webProgramming2-V2)
+[Link to repository](https://github.com/hannajonsd/webProgramming2-V2)
 
 #### Assignment 3
-[Github repository](https://github.com/hannajonsd/WebProgramming2-V3)
+[Link to repository](https://github.com/hannajonsd/WebProgramming2-V3)
 
 #### Assignment 4 
-[Github repository](https://github.com/hannajonsd/Vef2-v4)
+[Link to repository](https://github.com/hannajonsd/Vef2-v4)
 
 #### Assignment 5
-[Github repository](https://github.com/hannajonsd/my-prismic-app),
+[Link to repository](https://github.com/hannajonsd/my-prismic-app),
 [Prismic App](https://my-prismic-app.vercel.app/)
 
 #### Final Project
-[Github repository](https://github.com/bjoggi5/Vef2-Hopur-5-Plotukerfi)
+[Link to repository](https://github.com/bjoggi5/Vef2-Hopur-5-Plotukerfi)
 
 <!--
 **hannajonsd/hannajonsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
