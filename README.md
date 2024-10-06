@@ -21,7 +21,7 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 ### Web Programming 2
 #### Assignment 1
 [Boltadeild (Game League)](https://hannajonsd.github.io/WebProgramming2-V1/),
-[Github repository](https://github.com/hannajonsd/webProgramming2-V1)
+[Link to repository](https://github.com/hannajonsd/webProgramming2-V1)
 
 #### Assignment 2 
 [Link to repository](https://github.com/hannajonsd/webProgramming2-V2)
@@ -33,8 +33,8 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 [Link to repository](https://github.com/hannajonsd/Vef2-v4)
 
 #### Assignment 5
-[Link to repository](https://github.com/hannajonsd/my-prismic-app),
-[Prismic App](https://my-prismic-app.vercel.app/)
+[Prismic App](https://my-prismic-app.vercel.app/),
+[Link to repository](https://github.com/hannajonsd/my-prismic-app)
 
 #### Final Project
 [Link to repository](https://github.com/bjoggi5/Vef2-Hopur-5-Plotukerfi)
