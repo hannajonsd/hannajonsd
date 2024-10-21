@@ -1,10 +1,9 @@
 ## Hi, I'm Hanna Margrét
 
-I'm a Software Engineering student at the University of Iceland!
+I'm an MSc Computing (Software Engineering) student at the Imperial College London!
 
-- 💻 I am currently a Software Developer at Dohop!
-- 🌎 I recently did an exchange semester at the Cooper Union in New York!
-- 🔭 I am starting a graduate program at Imperial College London next fall, MSc in Computing (Software Engineering).
+- 💻 I have experience as a Software Developer at Dohop and a Business Central Developer at Origo!
+- 🌎 I did an exchange semester at the Cooper Union in New York in 2023!
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannajonsd&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
