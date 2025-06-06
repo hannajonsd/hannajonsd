@@ -1,11 +1,10 @@
-## Hi, I'm Hanna Margrét
+## Hi, I'm Hanna Margrét 👋
 
-I'm an MSc Computing (Software Engineering) student at the Imperial College London!
+I'm an MSc Computing (Software Engineering) student at Imperial College London, currently working on my individual project focused on open source software security.
 
-- 💻 I have experience as a Software Developer at Dohop and a Business Central Developer at Origo!
-- 🌎 I did an exchange semester at the Cooper Union in New York in 2023!
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannajonsd&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I have a BSc in Software Engineering from the University of Iceland, and I’m especially interested in cybersecurity and building reliable software systems.
+
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/hanna-margret/) if you’d like to chat about programming, life in London, or just to say hi!
 
 <!--
 ### Senior Project 1
@@ -16,7 +15,7 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 
 
 -->
-
+<!--
 ### Web Programming 2
 #### Assignment 1
 [Boltadeild (Game League)](https://hannajonsd.github.io/WebProgramming2-V1/),
@@ -35,8 +34,11 @@ Web applicaton for finding drink prices at various establishments in Iceland.
 [Prismic App](https://my-prismic-app.vercel.app/),
 [Link to repository](https://github.com/hannajonsd/my-prismic-app)
 
+
 #### Final Project
 [Link to repository](https://github.com/bjoggi5/Vef2-Hopur-5-Plotukerfi)
+
+-->
 
 <!--
 **hannajonsd/hannajonsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
