@@ -4,6 +4,8 @@ I'm an MSc Computing (Software Engineering) student at Imperial College London, 
 
 I have a BSc in Software Engineering from the University of Iceland, and I’m especially interested in cybersecurity and building reliable software systems.
 
+This is my personal website! [hannamargret.com](https://www.hannamargret.com/)
+
 Feel free to [connect on LinkedIn](https://www.linkedin.com/in/hanna-margret/) if you’d like to chat about programming, life in London, or just to say hi!
 
 <!--
